@@ -1,5 +1,7 @@
 # LogiCard
 
+LogiCard é um jogo de cartas com objetivo de introduzir conceitos sobre lógica proposicional, mais especificamente os conceitos de sentença, proposição e operadores.
+
 ## Público alvo
 
 O público alvo deste objeto de aprendizagem são crianças do quinto ano do ensino fundamental um.
@@ -21,3 +23,4 @@ O link para o mapa conceitual está [aqui](https://cmapscloud.ihmc.us:443/rid=21
 ## Modelo instrucional
 
 O modelo instrucional se encontra na raiz do projeto, utilizar o Astah UML para abrir o arquivo
+
