@@ -22,5 +22,6 @@ O link para o mapa conceitual está [aqui](https://cmapscloud.ihmc.us:443/rid=21
 
 ## Modelo instrucional
 
-O modelo instrucional se encontra na raiz do projeto, utilizar o Astah UML para abrir o arquivo
+<img width="500px" src="https://github.com/MatheusOliveiraT/LogiCard/blob/main/ModeloInstrucional.png">
+
 
