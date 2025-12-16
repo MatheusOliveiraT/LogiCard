@@ -1,0 +1,124 @@
+{
+  "general": {
+    "identifier": {
+      "catalog": "URI",
+      "entry": "https://github.com/MatheusOliveiraT/LogiCard"
+    },
+    "title": {
+      "language": "pt-BR",
+      "string": "LogiCard"
+    },
+    "language": ["pt-BR"],
+    "description": {
+      "language": "pt-BR",
+      "string": "LogiCard é um jogo de cartas educacional cujo objetivo é introduzir conceitos de lógica proposicional, como sentenças, proposições e operadores lógicos, por meio de uma atividade lúdica em grupo."
+    },
+    "keyword": [
+      { "language": "pt-BR", "string": "lógica proposicional" },
+      { "language": "pt-BR", "string": "proposições" },
+      { "language": "pt-BR", "string": "sentenças" },
+      { "language": "pt-BR", "string": "jogo educativo" },
+      { "language": "pt-BR", "string": "ensino fundamental" }
+    ],
+    "aggregationLevel": 2
+  },
+
+  "lifeCycle": {
+    "version": "1.0",
+    "status": "final",
+    "contribute": [
+      {
+        "role": "author",
+        "entity": "Matheus de Oliveira Teixeira — Universidade Tecnológica Federal do Paraná (UTFPR)",
+        "date": "2025"
+      }
+    ]
+  },
+
+  "metaMetadata": {
+    "metadataSchema": ["LOM v1.0"],
+    "language": ["pt-BR"],
+    "contribute": [
+      {
+        "role": "creator",
+        "entity": "Matheus de Oliveira Teixeira — UTFPR",
+        "date": "2025"
+      }
+    ]
+  },
+
+  "technical": {
+    "format": ["application/pdf", "image/png", "text/markdown"],
+    "location": [
+      "https://github.com/MatheusOliveiraT/LogiCard"
+    ],
+    "requirement": [
+      {
+        "type": "other",
+        "name": "Impressão das cartas (colorida ou preto-e-branco)"
+      }
+    ]
+  },
+
+  "educational": {
+    "interactivityType": "active",
+    "learningResourceType": ["game"],
+    "interactivityLevel": "high",
+    "semanticDensity": "medium",
+    "intendedEndUserRole": ["learner", "teacher"],
+    "context": ["ensino fundamental"],
+    "typicalAgeRange": "10-11",
+    "difficulty": "medium",
+    "typicalLearningTime": "PT1H30M",
+    "description": {
+      "language": "pt-BR",
+      "string": "O jogo promove a aprendizagem de conceitos básicos de lógica proposicional por meio de duas fases progressivas, envolvendo identificação de sentenças e proposições, bem como o uso de operadores lógicos de negação, conjunção e disjunção."
+    }
+  },
+
+  "rights": {
+    "cost": "no",
+    "copyrightAndOtherRestrictions": "yes",
+    "description": {
+      "language": "pt-BR",
+      "string": "Licenciado sob Creative Commons CC BY-SA 4.0."
+    }
+  },
+
+  "relation": [
+    {
+      "kind": "isBasedOn",
+      "resource": "Mapa conceitual disponível em https://cmapscloud.ihmc.us:443/rid=21XS9RQLX-6BKCC9-BNMCFB"
+    }
+  ],
+
+  "annotation": [
+    {
+      "entity": "Professor",
+      "date": "2025",
+      "description": {
+        "language": "pt-BR",
+        "string": "Sugere-se uma aula de 1 hora e 30 minutos, com mediação do professor, especialmente na fase inicial do jogo."
+      }
+    }
+  ],
+
+  "classification": [
+    {
+      "purpose": "educationalObjective",
+      "taxonPath": {
+        "source": "BNCC",
+        "taxon": [
+          {
+            "id": "EF03CO01",
+            "entry": "Associação de valores lógico-verdadeiros e falsos a sentenças do cotidiano"
+          },
+          {
+            "id": "EF05CO03",
+            "entry": "Operações lógicas de negação, conjunção e disjunção"
+          }
+        ]
+      }
+    }
+  ]
+}
